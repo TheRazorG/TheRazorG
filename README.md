@@ -9,7 +9,7 @@ BIOGRAPHY:
 CV:
 - 📩 Get My CV in https://therazorg.com/
 
-- WHAT I DO:
+WHAT I DO:
 - 💼 I develop software focused on frontend and web design. 
 - 🔭 I’m currently working on A21 Holdings, with my own Web Development Brand
 
