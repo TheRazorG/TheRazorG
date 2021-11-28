@@ -14,7 +14,7 @@ CV:
 - 🔭 I’m currently working on A21 Holdings, with my own Web Development Brand
 
 EDUCATION:
-- 🌱 I’m currently learning Web Application Development in UAX University
+- 🌱 I’m currently learning Web Application Development in Alfonso X El Sabio University
 - 🌻 I've studied Microiformatics Systems & Networks in IES Maestre de Calatrava
 
 SKILLS:
